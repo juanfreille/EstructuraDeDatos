@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="util.Cola">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAgAAAAAIBAQIAIAAAAAgAAgA=</HashCode>
+      <FileName>EstructuraDeDatos\Cola.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="NodoC" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="util.NodoC">
+    <Position X="3.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>EstructuraDeDatos\NodoC.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="util.Pila">
+    <Position X="1" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAgAAAAAIBAQIAIAAAAAgAAAA=</HashCode>
+      <FileName>EstructuraDeDatos\Pila.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="NodoP" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="util.NodoP">
+    <Position X="3.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAACAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>EstructuraDeDatos\NodoP.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="util.ListaSimplementeEnlazada">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAgAAAAAIBAQIAJAAAAAgAAAA=</HashCode>
+      <FileName>EstructuraDeDatos\ListaSimplementeEnlazada.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="NodoLS" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="util.NodoLS">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>EstructuraDeDatos\NodoLS.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="util.ListaDoblementeEnlazada" HideInheritanceLine="true">
+    <Position X="0.75" Y="13.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAgAAAAAKBAQIAIgAAAAgAAAA=</HashCode>
+      <FileName>EstructuraDeDatos\ListaDoblementeEnlazada.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="NodoDME" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="util.NodoDME">
+    <Position X="4" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAACEAAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>EstructuraDeDatos\NodoDME.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="util.Arbol">
+    <Position X="0.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACCoYAEQAKAABAAAAAggIAYAIAAAIAABAACAAAAA=</HashCode>
+      <FileName>EstructuraDeDatos\Arbol.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="NodoAB" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="util.NodoAB">
+    <Position X="4" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAgAAAgAAAAAAAAAAAgAAAAAUAAAA=</HashCode>
+      <FileName>EstructuraDeDatos\NodoAB.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
